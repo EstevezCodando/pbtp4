@@ -48,9 +48,7 @@ class Trie:
         _percorrer(self.raiz, "")
 
 
-# -------------------------------------------
-# EXEMPLO DE USO (teste):
-# -------------------------------------------
+
 if __name__ == "__main__":
     # Lista de palavras a serem inseridas no Trie
     lista_palavras = ["casa", "casamento", "carro", "carteira", "mapa", "mar"]
