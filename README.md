@@ -13,22 +13,22 @@ Cada exercício possui um arquivo correspondente, com funções e exemplos de us
 
 ### **Grupo 1: Heap Binária**
 
-1. [Ex1.1_Heap.py](Ex1.1_Heap.py)  
+1. [Ex1.1_Heap.py](Grupo%201/Ex1.1_Heap.py)  
    - **Criação e leitura de Heap**  
    - Recebe uma lista de inteiros e a transforma em uma heap binária (min-heap ou max-heap).  
    - Apresenta a estrutura da heap em formato de lista.
 
-2. [Ex1.2_Heap_Inserir.py](Ex1.2_Heap_Inserir.py)  
+2. [Ex1.2_Heap_Inserir.py](Grupo%201/Ex1.2_Heap_Inserir.py)  
    - **Inserção de elemento na Heap**  
    - Dada uma heap existente, insere um novo elemento mantendo a propriedade de heap.  
    - Mostra o estado da heap antes e depois da inserção.
 
-3. [Ex1.3_Heap_Busca.py](Ex1.3_Heap_Busca.py)  
+3. [Ex1.3_Heap_Busca.py](Grupo%201/Ex1.3_Heap_Busca.py)  
    - **Busca de elemento na Heap**  
    - Verifica se um valor específico existe na heap, retornando `True` ou `False`.  
    - Percorre a heap de forma eficiente.
 
-4. [Ex1.4_Heap_Remove.py](Ex1.4_Heap_Remove.py)  
+4. [Ex1.4_Heap_Remove.py](Grupo%201/Ex1.4_Heap_Remove.py)  
    - **Remoção da raiz (menor ou maior, dependendo do tipo de heap)**  
    - Remove o elemento raiz (menor em min-heap ou maior em max-heap) e reestrutura a heap.  
    - Mostra o estado da heap antes e depois da remoção.
@@ -37,7 +37,7 @@ Cada exercício possui um arquivo correspondente, com funções e exemplos de us
 
 ### **Grupo 2: Autocomplete com Trie**
 
-1. [Grupo 1/Ex2.1_Trie.py](Ex2.1_Trie.py)  
+1. [Ex2.1_Trie.py](Ex2.1_Trie.py)  
    - **Criação de Trie e inserção de palavras**  
    - Classe `Trie` que insere palavras caractere a caractere.  
    - Inclui a inserção manual de uma lista de palavras.
