@@ -37,7 +37,7 @@ Cada exercício possui um arquivo correspondente, com funções e exemplos de us
 
 ### **Grupo 2: Autocomplete com Trie**
 
-1. [Ex2.1_Trie.py](Ex2.1_Trie.py)  
+1. [Grupo 1/Ex2.1_Trie.py](Ex2.1_Trie.py)  
    - **Criação de Trie e inserção de palavras**  
    - Classe `Trie` que insere palavras caractere a caractere.  
    - Inclui a inserção manual de uma lista de palavras.
